@@ -8,7 +8,7 @@
 
 - 📫 Please get in touch via r.nagy@epcc.ed.ac.uk .
 
- Have a great day!:)
+ Thank you for reading. Have a great day!:)
 
 <!---
 robertn01/robertn01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
