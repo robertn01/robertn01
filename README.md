@@ -1,10 +1,10 @@
  👋 Hi, I’m Robert ( @robertn01 )
 
- 👀 I’m interested in Information Technology x Computing x Life Sciences x Biomedical/Engineering x Manned (Deep) Space Mission -- w.r.t Health/ LifeSci: mainly Neursocience & Oncology.
+ 👀 I’m interested in Information Technology/ Computing x Life Sciences/ Biomedical x Space & Satellites.
 
- 🌱 I’m currently learning more on the fronts of high-performace computing (HPC) applications and respective services.
+ 🌱 I’m currently learning more on the fronts of high-performace computing (HPC) infrastructure, applications and respective service development.
 
- 💞️ I’m looking to collaborate on any projcts related to domains named above.
+ 💞️ I’m looking to collaborate on projects related to domains named above.
 
 - 📫 Please get in touch via r.nagy@epcc.ed.ac.uk .
 
