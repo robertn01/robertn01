@@ -1,6 +1,6 @@
  👋 Hi, I’m Robert ( @robertn01 )
 
- 👀 I’m interested in Information Technology x Computing x Life Sciences x Biomedical/Engineering x Manned (Deep) Space Mission -- re Health/ LifeSci: mainly Neursocience & Oncology.
+ 👀 I’m interested in Information Technology x Computing x Life Sciences x Biomedical/Engineering x Manned (Deep) Space Mission -- w.r.t Health/ LifeSci: mainly Neursocience & Oncology.
 
  🌱 I’m currently learning more on the fronts of high-performace computing (HPC) applications and respective services.
 
