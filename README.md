@@ -6,7 +6,7 @@
 
  💞️ I’m looking to collaborate on projects related to domains named above.
 
-- 📫 Please get in touch via r.nagy@epcc.ed.ac.uk .
+- 📫 Please get in touch via robertnagy548@gmail.com .
 
  Thank you for reading. Have a great day!:)
 
